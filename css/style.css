@@ -237,3 +237,22 @@ a {
   justify-content: center;
   align-items: center;
 }
+
+/*Фотогалерея*/
+.gallery {
+  padding: 50px 0 105px;
+  background: #886239;
+  color: #fff;
+}
+.gallery__top {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-bottom: 39px;
+  padding-right: 160px;
+}
+.gallery__link {
+  font-size: 16px;
+  line-height: 19px;
+  text-decoration: underline;
+}
