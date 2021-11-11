@@ -433,11 +433,9 @@ a {
 .footer__adress {
   width: 165px;
 }
-
 .footer__contacts {
   width: 210px;
 }
 .footer__mail {
-  opacity: 0.8;
   display: block;
 }
