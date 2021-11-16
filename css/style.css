@@ -433,6 +433,13 @@ a {
 .footer__adress {
   width: 165px;
 }
+
+@media (max-width: 1200px) {
+  .footer__mail {
+    display: none;
+  }
+}
+
 .footer__contacts {
   width: 210px;
 }
